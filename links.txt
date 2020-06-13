@@ -1,0 +1,55 @@
+Bit hacks(hacks for dealing with bits)
+https://graphics.stanford.edu/~seander/bithacks.html
+
+memfault post on BLE 
+https://interrupt.memfault.com/blog/bluetooth-low-energy-a-primer
+
+For BLE 
+https://www.novelbits.io/
+
+In depth blogs on embedded
+https://interrupt.memfault.com/blog
+
+Linux business card
+https://www.thirtythreeforty.net/posts/2019/08/mastering-embedded-linux-part-1-concepts/
+
+Quantum leap
+https://www.state-machine.com/
+
+Ben eater 8 bit breadboard computer
+https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU
+
+Ben eater 6502 from scratch
+https://www.youtube.com/watch?v=LnzuMJLZRdU&list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH
+
+Embedded Systems Programming Lesson by Miro Samek (the best available)
+https://www.youtube.com/watch?v=3V9eqvkMzHA&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM
+
+Hackaday
+https://hackaday.com/
+
+Cortex M context switch
+https://interrupt.memfault.com/blog/cortex-m-rtos-context-switching
+
+Using Asserts in Embedded Systems
+https://interrupt.memfault.com/blog/asserts-in-embedded-systems
+
+A Practical guide to ARM Cortex-M Exception Handling
+https://interrupt.memfault.com/blog/arm-cortex-m-exceptions-and-nvic
+
+ARM startup
+https://interrupt.memfault.com/blog/tag/zero-to-main
+https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/
+
+embedded artistry
+https://embeddedartistry.com/blog/
+https://embeddedartistry.com/beginners/
+
+Jack Ganssle
+http://www.ganssle.com/
+
+difference bw const * and * const
+https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant
+
+combining volatile and const
+https://www.embedded.com/combining-cs-volatile-and-const-keywords/
