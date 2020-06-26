@@ -53,3 +53,7 @@ https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-cons
 
 combining volatile and const
 https://www.embedded.com/combining-cs-volatile-and-const-keywords/
+
+One instruction CPU
+http://mazonka.com/subleq/
+https://www.youtube.com/watch?v=jRZDnetjGuo&list=PLxLxbi4e2mYGvzNw2RzIsM_rxnNC8m2Kz&index=3
