@@ -57,3 +57,6 @@ https://www.embedded.com/combining-cs-volatile-and-const-keywords/
 One instruction CPU
 http://mazonka.com/subleq/
 https://www.youtube.com/watch?v=jRZDnetjGuo&list=PLxLxbi4e2mYGvzNw2RzIsM_rxnNC8m2Kz&index=3
+
+Embedded artistry resource
+https://github.com/embeddedartistry/embedded-resources
